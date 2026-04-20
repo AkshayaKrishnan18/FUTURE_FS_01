@@ -64,7 +64,7 @@ The goal of this task was to create a professional portfolio that:
 
 ## 🔗 Live Preview
 
-(Add your deployed link here)
+https://akshayakrishnan18.github.io/FUTURE_FS_01/
 
 ---
 
