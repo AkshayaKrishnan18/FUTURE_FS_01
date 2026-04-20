@@ -1,7 +1,6 @@
-# 🌐 Personal Portfolio Website
+# 🌐 Full Stack Web Development Internship
 
-## 📌 Task 1 – Full Stack Web Development Internship
-
+## 📌 Task 1 – Personal Portfolio Website
 ### 🔍 Overview
 
 This project is a fully responsive personal portfolio website built to showcase my skills, projects, and professional journey as a B.E. Artificial Intelligence and Machine Learning student.
@@ -70,7 +69,7 @@ https://akshayakrishnan18.github.io/FUTURE_FS_01/
 
 ## 📎 Project File
 
-You can view the complete HTML file here:
+You can view the complete HTML file here: https://github.com/AkshayaKrishnan18/FUTURE_FS_01/blob/main/akshaya-portfolio%20(2).html
 
 
 ---
