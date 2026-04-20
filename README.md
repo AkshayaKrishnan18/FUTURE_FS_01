@@ -2,7 +2,7 @@
 
 This project is my personal professional portfolio website, built as part of my Full Stack Web Development Internship.
 
-It serves as a digital resume and showcases my skills, projects, and interests in web development and UI/UX design.
+It serves as a digital resume and showcases my skills, projects, and interests in web development.
 
 ---
 
@@ -52,9 +52,9 @@ This portfolio is designed to:
 
 ## 📬 Contact
 
-- Email: yourmail@gmail.com  
-- LinkedIn: (add your link)  
-- GitHub: (add your link)
+- Email: akshayakrishnan1810@gmail.com
+- LinkedIn: www.linkedin.com/in/akshaya-krishnan-98722b294
+- GitHub: https://github.com/AkshayaKrishnan18
 
 ---
 
