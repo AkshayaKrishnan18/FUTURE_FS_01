@@ -1,72 +1,89 @@
 # 🌐 Personal Portfolio Website
 
-This project is my personal professional portfolio website, built as part of my Full Stack Web Development Internship.
+## 📌 Task 1 – Full Stack Web Development Internship
 
-It serves as a digital resume and showcases my skills, projects, and interests in web development.
+### 🔍 Overview
+
+This project is a fully responsive personal portfolio website built to showcase my skills, projects, and professional journey as a B.E. Artificial Intelligence and Machine Learning student.
+
+Unlike template-based portfolios, this website is designed and developed from scratch with a focus on clean UI, readability, and structured content presentation.
 
 ---
 
-## 🚀 Features
+## 🎯 Objective
 
-- Responsive design (mobile + desktop)
-- Clean and modern user interface
-- Projects showcase section
-- About me / skills section
-- Contact section for easy communication
+The goal of this task was to create a professional portfolio that:
+
+* Represents my technical profile clearly
+* Highlights real projects and skills
+* Provides an easy way for recruiters to connect
+* Demonstrates my frontend development abilities
 
 ---
 
 ## 🛠️ Tech Stack
 
-- HTML
-- CSS
-- JavaScript
+* HTML5
+* CSS3
+* JavaScript
+
+---
+
+## ✨ Features
+
+* Responsive design (mobile + desktop)
+* Clean and modern UI layout
+* Smooth scrolling and section navigation
+* Structured sections (About, Skills, Projects, Experience, Education, Contact)
+* Interactive contact section
+* Visual hierarchy for better readability
 
 ---
 
 ## 📂 Sections Included
 
-- Home  
-- About  
-- Skills  
-- Projects  
-- Contact  
+* **Hero Section** – Introduction and quick profile
+* **About** – Background, journey, and interests
+* **Skills** – Technical, core, and tools
+* **Projects** – Real projects with descriptions
+* **Experience** – Internship details
+* **Education** – Academic background
+* **Contact** – Direct communication links
 
 ---
 
-## 💡 Purpose
+## 🚀 Key Learning Outcomes
 
-This portfolio is designed to:
-
-- Present my work professionally
-- Demonstrate my frontend development skills
-- Act as a central hub for recruiters and collaborators
+* Improved understanding of responsive web design
+* Learned how to structure a real-world portfolio
+* Practiced clean UI design and typography
+* Gained experience in organizing content effectively
+* Understood the importance of user experience in personal branding
 
 ---
 
-## 🔗 Live Demo
+## 🔗 Live Preview
 
-(Add your deployed link here after hosting)
+(Add your deployed link here)
+
+---
+
+## 📎 Project File
+
+You can view the complete HTML file here:
+
 
 ---
 
 ## 📬 Contact
 
-- Email: akshayakrishnan1810@gmail.com
-- LinkedIn: www.linkedin.com/in/akshaya-krishnan-98722b294
-- GitHub: https://github.com/AkshayaKrishnan18
+* Email: [akshayakrishnan1810@gmail.com](mailto:akshayakrishnan1810@gmail.com)
+* GitHub: https://github.com/AkshayaKrishnan18
+* LinkedIn: https://linkedin.com/in/akshaya-krishnan-98722b294
 
 ---
 
-## ⚡ Future Improvements
+## ⚠️ Note
 
-- Add backend for contact form
-- Include blog section
-- Improve animations and UI interactions
-- Dark/Light mode toggle
+This project is part of my internship task and will continue to evolve as I improve my skills and add more real-world projects.
 
----
-
-## 📌 Note
-
-This is an evolving project. I will continue improving it as I learn more technologies and build better projects.
