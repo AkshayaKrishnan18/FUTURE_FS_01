@@ -57,6 +57,8 @@ https://github.com/AkshayaKrishnan18/FUTURE_FS_01
 
 ## Preview
 
+## Preview
+
 <p align="center">
   <img src="assets/screenshots/hero.png" width="80%" />
 </p>
@@ -66,9 +68,12 @@ https://github.com/AkshayaKrishnan18/FUTURE_FS_01
 </p>
 
 <p align="center">
-  <img src="assets/screenshots/mobile.png" width="40%" />
+  <img src="assets/screenshots/skills.png" width="80%" />
 </p>
 
+<p align="center">
+  <img src="assets/screenshots/mobile.png" width="40%" />
+</p>
 ---
 
 ## Setup
