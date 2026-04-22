@@ -1,15 +1,15 @@
 # Full Stack Web Development Internship
 
 ## Task 1 – Personal Portfolio Website
+
 # Akshaya — Portfolio
 
-A responsive personal portfolio website showcasing projects, skills, and experience in Artificial Intelligence and Web Development.
 
 ---
 
 ## Overview
 
-This portfolio is built from scratch with a focus on clarity, structure, and usability. It presents my work and learning journey while maintaining a clean and minimal interface.
+A responsive personal portfolio website showcasing projects, skills, and experience in Artificial Intelligence and Web Development. Built from scratch with a focus on clarity, structure, and usability.
 
 ---
 
@@ -24,10 +24,10 @@ This portfolio is built from scratch with a focus on clarity, structure, and usa
 ## Features
 
 * Responsive layout across devices
-* Structured sections for content clarity
+* Clean and structured UI
 * Smooth navigation and scrolling
 * Project showcase with descriptions
-* Contact interface for direct reach
+* Contact section for communication
 
 ---
 
@@ -45,7 +45,7 @@ This portfolio is built from scratch with a focus on clarity, structure, and usa
 
 ## Live
 
-
+https://akshayakrishnan-portfolio.netlify.app
 
 ---
 
@@ -57,23 +57,11 @@ https://github.com/AkshayaKrishnan18/FUTURE_FS_01
 
 ## Preview
 
-## Preview
+<img src="hero.png" width="80%" />
+<img src="projects.png" width="80%" />
+<img src="skills.png" width="80%" />
+<img src="mobile.png" width="40%" />
 
-<p align="center">
-  <img src="assets/screenshots/hero.png" width="80%" />
-</p>
-
-<p align="center">
-  <img src="assets/screenshots/projects.png" width="80%" />
-</p>
-
-<p align="center">
-  <img src="assets/screenshots/skills.png" width="80%" />
-</p>
-
-<p align="center">
-  <img src="assets/screenshots/mobile.png" width="40%" />
-</p>
 ---
 
 ## Setup
