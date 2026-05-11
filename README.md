@@ -75,3 +75,13 @@ Clone the repository and open `index.html` in a browser.
 * Email: [akshayakrishnan1810@gmail.com](mailto:akshayakrishnan1810@gmail.com)
 * GitHub: https://github.com/AkshayaKrishnan18
 * LinkedIn: https://linkedin.com/in/akshaya-krishnan-98722b294
+
+---
+
+## Internship
+
+Submitted for:
+
+**Future Interns – Full Stack Web Development Internship (2026)**
+
+Task 1 – Personal Portfolio Website
